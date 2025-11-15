@@ -205,3 +205,96 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#JAVA
+# Creado por https://www.toptal.com/developers/gitignore/api/java
+# Editar en https://www.toptal.com/developers/gitignore?templates=java
+
+### Java ###
+# Archivo de clase compilado
+*.clase
+
+# Archivo de registro
+*.registro
+
+# Archivos BlueJ
+*.ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp/
+
+# Archivos del paquete #
+*.frasco
+*.guerra
+*.nar
+*.oreja
+*.cremallera
+*.tar.gz
+*.rar
+
+# Registros de fallos de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/java
+
+#C++
+# Creado por https://www.toptal.com/developers/gitignore/api/c++
+# Editar en https://www.toptal.com/developers/gitignore?templates=c++
+
+### C++ ###
+# Requisitos previos
+*.d
+
+# Archivos objeto compilados
+*.slo
+*.lo
+*.o
+*.obj
+
+# Encabezados precompilados
+*.gch
+*.pch
+
+# Bibliotecas dinámicas compiladas
+*.entonces
+*.dylib
+*.dll
+
+# Archivos de módulo Fortran
+*.mod
+*.smod
+
+# Bibliotecas estáticas compiladas
+*.lai
+*.la
+*.a
+*.lib
+
+# Ejecutables
+*.exe
+*.afuera
+*.app
+
+# Fin de https://www.toptal.com/developers/gitignore/api/c++
+
+#LINUX
+# Creado por https://www.toptal.com/developers/gitignore/api/linux
+# Edita en https://www.toptal.com/developers/gitignore?templates=linux
+
+### Linux ###
+*~
+
+# Archivos temporales que se pueden crear si un proceso aún tiene abierto un identificador de un archivo eliminado
+.fuse_hidden*
+
+# Preferencias de directorio de KDE
+.directorio
+
+# Carpeta de papelera de Linux que puede aparecer en cualquier partición o disco
+.Basura-*
+
+Los archivos .nfs se crean cuando se elimina un archivo abierto pero aún se está accediendo a él.
+.nfs*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/linux
